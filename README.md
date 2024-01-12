@@ -8,23 +8,28 @@ In this assignment, the focus was on leveraging web-scraping techniques and data
 
 ### **Deliverable 1: Scrape Titles and Preview Text from Mars News**
 
-- Utilized automated browsing with Splinter to visit the Mars News site and extracted HTML code using Beautiful Soup.
+- Utilized automated browsing with `Splinter` to visit the Mars News site and extracted `HTML` code using `Beautiful Soup`.
 - Successfully scraped and extracted titles and preview text of Mars news articles.
 - Organized the scraped information into a Python data structure—a list of dictionaries.
-- Optional: Explored the possibility of sharing the data by exporting it to a JSON file.
+- Optional: Explored the possibility of sharing the data by exporting it to a `JSON` file.
 
 ### **Deliverable 2: Scrape and Analyze Mars Weather Data**
 
-- Employed automated browsing to visit the Mars Temperature Data Site and identified HTML elements for scraping.
-- Utilized Beautiful Soup to extract data from the HTML table and assembled it into a Pandas DataFrame.
+- Employed automated browsing to visit the Mars Temperature Data Site and identified `HTML` elements for scraping.
+- Utilized `Beautiful Soup` to extract data from the HTML table and assembled it into a `Pandas DataFrame`.
 - Conducted a comprehensive analysis of the Mars weather data, addressing questions related to months on Mars, Martian days' worth of data, temperature, atmospheric pressure, and terrestrial days in a Martian year.
 - Created meaningful data visualizations (bar charts) to support and communicate the analysis.
-- Exported the resulting DataFrame to a CSV file for further use.
+- Exported the resulting DataFrame to a `CSV file` for further use. Please reference `mars_data.csv`. 
 
 ## Files and Instructions
 
 - Downloaded necessary files from the provided [Module 11 Challenge files](https://example-download-link.com).
 - Executed tasks outlined in Jupyter Notebooks, following instructions for each deliverable.
+
+## Websites (HTML) Sraped
+
+- https://static.bc-edx.com/data/web/mars_facts/temperature.html
+- https://static.bc-edx.com/data/web/mars_news/index.html
 
 ## Conclusion
 
