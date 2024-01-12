@@ -34,4 +34,9 @@ In this assignment, the focus was on leveraging web-scraping techniques and data
 ## Conclusion
 
 This assignment provided a hands-on opportunity to apply learned skills in web scraping and data analysis to real-world scenarios. By successfully completing both deliverables, the assignment reinforced the ability to collect, process, and analyze data, as well as present findings visually. The use of tools like Splinter, Beautiful Soup, and Pandas showcased a holistic approach to web scraping and data manipulation.
+
+## References
+
+The Mars News website [Links to an external site.](https://example-mars-news.com) is operated by edX Boot Camps LLC for educational purposes only. The news article titles, summaries, dates, and images were scraped from [NASA's Mars News](https://example-nasa-mars-news.com) website in November 2022. Images are used according to the [JPL Image Use Policy](https://example-jpl-image-policy.com), courtesy NASA/JPL-Caltech.
+
  
