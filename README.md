@@ -6,14 +6,14 @@ In this assignment, the focus was on leveraging web-scraping techniques and data
 
 ## Deliverables
 
-### **Deliverable 1: Scrape Titles and Preview Text from Mars News (40 points)**
+### **Deliverable 1: Scrape Titles and Preview Text from Mars News**
 
 - Utilized automated browsing with Splinter to visit the Mars News site and extracted HTML code using Beautiful Soup.
 - Successfully scraped and extracted titles and preview text of Mars news articles.
 - Organized the scraped information into a Python data structure—a list of dictionaries.
 - Optional: Explored the possibility of sharing the data by exporting it to a JSON file.
 
-### **Deliverable 2: Scrape and Analyze Mars Weather Data (60 points)**
+### **Deliverable 2: Scrape and Analyze Mars Weather Data**
 
 - Employed automated browsing to visit the Mars Temperature Data Site and identified HTML elements for scraping.
 - Utilized Beautiful Soup to extract data from the HTML table and assembled it into a Pandas DataFrame.
